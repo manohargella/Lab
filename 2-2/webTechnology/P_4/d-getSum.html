@@ -1,0 +1,20 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sum of n</title>
+</head>
+<body>
+    <button onclick="sol()">Get Sum</button>
+    <script>
+        function sol(){
+            let value = parseInt(prompt("Enter any value"));
+            let sol = 0;
+            for(let i = 1; i<=value; i++){
+                sol+=i;
+            }
+            alert(`The sum of ${value} is ${sol}`);
+        }
+    </script>
+</body>
+</html>
