@@ -4,14 +4,14 @@
 - Display multiplication table of a number using an alert.
 - Compute sum of numbers using prompt and confirm pop-ups.
 
-### Show Date Output
+### A - Show Date Output
 <img src="source/date.png" width="700">
 
-### Show Factorial Output
+### B - Show Factorial Output
 <img src="source/factorial.png" width="700">
 
-### Show Table Output
+### C - Show Table Output
 <img src="source/table.png" width="700">
 
-### Show Sum Output
+### D - Show Sum Output
 <img src="source/sum.png" width="700">
