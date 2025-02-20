@@ -5,3 +5,5 @@
 - **Mobile Number**: Must contain exactly 10 digits.
 - **Last Name & Address**: Should not be empty.
 
+### 1. Validation Output
+<img src="source/val.png" width="700">
