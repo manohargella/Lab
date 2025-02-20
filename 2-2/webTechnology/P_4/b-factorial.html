@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <button onclick="find()"><h1>Find Factorail</h1></button>
+    </center>
+    <script>
+        function find(){
+            const value = parseInt(prompt("Enter any value"));
+            let sol = 1;
+            for(let i = value; i>=1; i--){
+                sol*=i;
+            }
+            alert(`Factorial of ${value} is ${sol}`);
+        }
+    </script>
+</body>
+</html>
