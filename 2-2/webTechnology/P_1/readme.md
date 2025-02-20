@@ -17,7 +17,8 @@ Users can register by providing their details on this page.
 ## Output Screenshots
 
 ### 1. Home Page Output
-![Login Page Output](source/home.png)
+<img src="source/home.png" width="300">
+
 
 ### 2. Login Page Output
 ![Login Page Output](./source/login.png)
