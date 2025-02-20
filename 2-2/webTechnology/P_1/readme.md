@@ -20,12 +20,12 @@ Users can register by providing their details on this page.
 <img src="source/home.png" width="700">
 
 ### 2. Login Page Output
-<img src="source/login.png" width="700">
+<img src="source/log.png" width="700">
 
 ### 3. Registration Page Output
 <img src="source/reg.png" width="700">
 
 ### 4. Catalogue Page Output
-<img src="source/catlogue.png" width="700">
+<img src="source/cat.png" width="700">
 
 
