@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print Capital</title>
+</head>
+<body>
+    <label>Choose any countyr: </label>
+    <select name="" id="con" onchange="showCapital()">
+        <option value="usa">select</option>
+        <option value="usa">USA</option>
+        <option value="uk">UK</option>
+        <option value="canada">CANADA</option>
+        <option value="india">INDIA</option>
+        <option value="japan">JAPAN</option>
+    </select>
+    <p id="capital" style="color: blue; font-size: 40px;"></p>
+    <script>
+        function showCapital(){
+            let cval = document.getElementById('con').value;
+            let capital = "";
+            switch (cval) {
+                case "usa":
+                    capital = "Washington DC";
+                    break;
+                case "uk":
+                    capital = "London";
+                    break;
+                case "canada":
+                    capital = "Ottawa";  // Corrected from "Canbeera"
+                    break;
+                case "india":
+                    capital = "New Delhi";  // Added "New" to match proper name
+                    break;
+                case "japan":
+                    capital = "Tokyo";
+                    break;
+                default:
+                    capital = "Please select a valid country.";
+            }
+
+            document.getElementById('capital').innerText = capital;
+        }
+    </script>
+</body>
+</html>
