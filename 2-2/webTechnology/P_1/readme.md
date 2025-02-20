@@ -17,15 +17,15 @@ Users can register by providing their details on this page.
 ## Output Screenshots
 
 ### 1. Home Page Output
-<img src="source/home.png" width="500">
-
+<img src="source/home.png" width="700">
 
 ### 2. Login Page Output
-![Login Page Output](./source/login.png)
+<img src="source/login.png" width="700">
 
 ### 3. Registration Page Output
-![Registration Page Output](source/reg.png)
+<img src="source/reg.png" width="700">
 
 ### 4. Catalogue Page Output
-![Catalogue Page Output](catlogue.html)
+<img src="source/catlogue.png" width="700">
+
 
