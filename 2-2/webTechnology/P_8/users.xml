@@ -1,0 +1,71 @@
+<usersinformation>
+    <user>
+        <rollno>501</rollno>
+        <name>Manohar</name>
+        <branch>cse</branch>
+        <college>Illiterate</college>
+    </user>
+
+    <user>
+        <rollno>502</rollno>
+        <name>IShowSpeed</name>
+        <branch>cse</branch>
+        <college>IIT Delhi</college> 
+    </user>
+
+    <user>
+        <rollno>503</rollno>
+        <name>The Great Khali</name>
+        <branch>cse</branch>
+        <college>IIT Indore</college>
+    </user>
+
+    <user>
+        <rollno>504</rollno>
+        <name>Pablo</name>
+        <branch>cse</branch>
+        <college>IIT Madras</college>
+    </user>
+
+    <user>
+        <rollno>505</rollno>
+        <name>Nikola</name>
+        <branch>cse</branch>
+        <college>IIT Mandi</college>
+    </user>
+
+    <user>
+        <rollno>506</rollno>
+        <name>John</name>
+        <branch>cse</branch>
+        <college>IIT Hyderbad</college>
+    </user>
+
+    <user>
+        <rollno>507</rollno>
+        <name>Gracier</name>
+        <branch>cse</branch>
+        <college>IIT Guhawati</college>
+    </user> 
+
+    <user>
+        <rollno>508</rollno>
+        <name>Hostinger</name>
+        <branch>cse</branch>
+        <college>IIT Khanpur</college>
+    </user>
+
+    <user>
+        <rollno>509</rollno>
+        <name>Iliayh</name>
+        <branch>cse</branch>
+        <college>IIT Roorkee</college>
+    </user>
+
+    <user>
+        <rollno>510</rollno>
+        <name>Peter</name>
+        <branch>cse</branch>
+        <college>IIT Jodhpur</college>
+    </user>
+</usersinformation> 
