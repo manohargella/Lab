@@ -44,15 +44,3 @@ For any queries or discussions, reach out via GitHub Issues.
 ---
 🚀 *This repository is actively updated as I progress through my semesters.*
 
-
-# Download All Files and Folders
-
-Click the link below to download all files and folders in a single ZIP file:
-
-# Download mano.html
-
-Click the link below to download the `mano.html` file:
-
-<a href="2-2/webTechnology/P_1" download="2-2/webTechnology/P_1">Download mano.html</a>
-
-
