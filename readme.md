@@ -49,6 +49,10 @@ For any queries or discussions, reach out via GitHub Issues.
 
 Click the link below to download all files and folders in a single ZIP file:
 
-[Download all files](https://github.com/manohargella/Lab/blob/master/zip/DS_Store.zip)
+# Download mano.html
+
+Click the link below to download the `mano.html` file:
+
+<a href="2-2/webTechnology/P_1/" download>Download mano.html</a>
 
 
