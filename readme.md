@@ -49,5 +49,6 @@ For any queries or discussions, reach out via GitHub Issues.
 
 Click the link below to download all files and folders in a single ZIP file:
 
-[Download project.zip](zip/DS_Store.zip)
+[Download all files](https://github.com/manohargella/Lab/blob/master/zip/DS_Store.zip)
+
 
