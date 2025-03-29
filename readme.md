@@ -53,6 +53,6 @@ Click the link below to download all files and folders in a single ZIP file:
 
 Click the link below to download the `mano.html` file:
 
-<a href="2-2/webTechnology/P_1/" download>Download mano.html</a>
+<a href="2-2/webTechnology/P_1" download="2-2/webTechnology/P_1">Download mano.html</a>
 
 
