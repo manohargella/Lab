@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>User Registration</title>
+        <script src="./main.js"></script>
+    </head>
+    <body>
+        <h1>User Registration Page</h1>
+        <form onsubmit="return validate()">
+            <label>
+                First Name
+                <input type="text" id="firstName" name="firstName">
+            </label>
+            <br><br>
+            <label>
+                Last Name
+                <input type="text" id="lastName" name="lastName">
+            </label>
+            <br><br>
+            <label>
+                Password
+                <input type="password" id="password" name="password">
+            </label>
+            <br><br>
+            <label>
+                Email
+                <input type="email" id="email" name="email">
+            </label>
+            <br><br>
+            <label>
+                Mobile Number
+                <input type="number" id="mobileno" name="mobileno">
+            </label>
+            <br><br>
+            <label>
+                Address
+                <br>
+                <textarea rows="10" cols="30" id="address"></textarea>
+            </label>
+            <br><br>
+            <input type="submit" value="Register">
+            <input type="reset" value="Clear">
+        </form>
+    </body>
+</html>
