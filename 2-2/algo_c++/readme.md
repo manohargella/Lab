@@ -12,5 +12,5 @@ You can refer to the official DAA lab manual using the link below:
 
 👉 [Click here to view the DAA Lab Manual](https://drive.google.com/file/d/1qR2bHk2YlxKH9OT_ajiU4qYMO-hXaQ5a/view?usp=sharing)
 
-> ⚠️ Replace the above link with the actual manual URL.
+> ⚠️ Replace the above link with the actual manual URL if you have the updated version or mail to manoharcodes@gmail.com.
 
