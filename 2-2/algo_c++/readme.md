@@ -1,16 +1,57 @@
-# 🧠 Algorithms Lab (B.Tech CSE - Andhra University)
+# 💻 C++ Lab – Experiments
 
-This repository contains all the lab programs implemented for the **ALC LAB(Algorithms Through C++)** course in my B.Tech CSE curriculum at Andhra University.
+A collection of **12 C++ Lab Programs** with direct links to individual PDFs and one combined overall PDF.
 
-## 📁 Contents
+---
 
-Each program is written in C++ and corresponds to an experiment listed in the official lab manual. The programs are organized and named according to their respective topics and experiment numbers.
+## 📑 Experiments
 
-## 📘 ALC LAB Manual
+1. [Experiment 1](./programs/exp1.cpp)
+2. [Experiment 2a](./programs/exp2a.cpp)
+3. [Experiment 2b](./programs/exp2b.cpp)
+4. [Experiment 3a](./programs/exp3a.cpp)
+5. [Experiment 3b](./programs/exp3b.cpp)
+6. [Experiment 4](./programs/exp4.cpp)
+7. [Experiment 5](./programs/exp5.cpp)
+8. [Experiment 6](./programs/exp6.cpp)
+9. [Experiment 7](./programs/)
+10. [Experiment 8](./programs/)
+11. [Experiment 9](./programs/)
+12. [Experiment 10](./Exp10.pdf)
+13. [Experiment 11](./Exp11.pdf)
+14. [Experiment 12](./Exp12.pdf)
 
-You can refer to the official DAA lab manual using the link below:
+---
 
-👉 [Click here to view the DAA Lab Manual](https://drive.google.com/file/d/1qR2bHk2YlxKH9OT_ajiU4qYMO-hXaQ5a/view?usp=sharing)
+## 📘 Overall Document
 
-> ⚠️ Replace the above link with the actual manual URL if you have the updated version or mail to manoharcodes@gmail.com.
+* **All Experiments Combined – PDF**
+  [⬇️ Download / Open PDF](./C++-Lab-All.pdf)
 
+---
+
+## 🗂️ Suggested File Structure
+
+```text
+.
+├── README.md
+├── Exp01.pdf
+├── Exp02.pdf
+├── Exp03.pdf
+├── Exp04.pdf
+├── Exp05.pdf
+├── Exp06.pdf
+├── Exp07.pdf
+├── Exp08.pdf
+├── Exp09.pdf
+├── Exp10.pdf
+├── Exp11.pdf
+├── Exp12.pdf
+└── C++-Lab-All.pdf
+```
+
+---
+
+### ✅ Ready to use
+
+Replace placeholders with your actual PDF files and enjoy a **professional clickable index** for your C++ Lab.
