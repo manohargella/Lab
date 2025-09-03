@@ -5,5 +5,10 @@
 - **Mobile Number**: Must contain exactly 10 digits.
 - **Last Name & Address**: Should not be empty.
 
+## Types of CSS
+- **External**
+- **Embedded**
+- **Inline**
+
 ### Validation Output
 <img src="source/val.png" width="700">
